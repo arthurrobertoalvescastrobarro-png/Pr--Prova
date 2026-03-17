@@ -1,0 +1,1 @@
+//Criar um programa para verificar se um número é par ou impar, usando operador ternário
